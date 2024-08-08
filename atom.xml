@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://x-corp.cn</id>
+    <title>X Corp</title>
+    <updated>2024-08-08T05:42:14.928Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://x-corp.cn"/>
+    <link rel="self" href="https://x-corp.cn/atom.xml"/>
+    <subtitle>Together, we thrive.</subtitle>
+    <logo>https://x-corp.cn/images/avatar.png</logo>
+    <icon>https://x-corp.cn/favicon.ico</icon>
+    <rights>All rights reserved 2024, X Corp</rights>
+    <entry>
+        <title type="html"><![CDATA[Together, We thrive.]]></title>
+        <id>https://x-corp.cn/together-we-thrive/</id>
+        <link href="https://x-corp.cn/together-we-thrive/">
+        </link>
+        <updated>2024-08-08T05:33:51.000Z</updated>
+        <content type="html"><![CDATA[<p>Welcome, to X Corp.</p>
+]]></content>
+    </entry>
+</feed>
